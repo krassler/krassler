@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander Krasnopevtsev
 - 👀 I’m interested in challenging full-stack developer tasks.
-- 🌱 I’m currently learning algorithms, AI and machine learning IBM Skills Network.
+- 🌱 I’m currently learning algorithms, AI and machine learning at IBM Skills Network.
 - 💞️ I have 3+ years experience in coding and business automation. I also work as a teacher. I’m looking to collaborate on different interesting projects.
 - 📫 How to reach me [t.me](https://t.me/krassler)...
 
